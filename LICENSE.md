@@ -1,3 +1,3 @@
 Copyright © 2022 - [iuricode](https://github.com/iuricode)
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, com restrição de publicar como seu repositório. Porém, sem restrição nos direitos de fazer um fork e modificar o mesmo.
+Se concede permiso, de forma gratuita, a cualquiera que obtenga una copia de este archivo, con la restricción de publicarlo como su repositorio. Sin embargo, no se restringen los derechos de bifurcarlo y modificarlo.
