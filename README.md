@@ -1,3 +1,5 @@
+Repositorio original: [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits)
+
 <h1 align="center">
 📄<br>Patrones para commits
 </h1>
@@ -312,6 +314,12 @@ Ejemplo: corregir errores menores en el código.
   </tbody>
 </table>
 
+## Traducciones
+
+También esta disponible en otros idiomas
+
+- ![br](https://images.emojiterra.com/twitter/v14.0/128px/1f1e7-1f1f7.png) **Brazilian Portuguese** ![iuricode/padroes-de-commits](https://github.com/fesnt/clean-code-javascript)
+
 <div align="center">
   <br/>
     <div>
@@ -319,7 +327,7 @@ Ejemplo: corregir errores menores en el código.
       <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a>
     </div>
     <br/>
-    <p> 
+    <p>
       <a href="https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md">LICENCIA</a>
     </p>
     💖
