@@ -1,46 +1,46 @@
 <h1 align="center">
-📄<br>Padrões de commits 
+📄<br>Patrones para commits
 </h1>
 
 <h1 align="center">
   <img src="gitcommit.png">
 </h1>
 
-De acordo com a documentação do **Conventional Commits**, Commits Semânticos são uma convenção simples para ser utilizada nas mensagens de commit. Essa convenção define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas.
+Según la documentación de **Conventional Commits**, los Commits Semánticos son una convención simple para utilizar en los mensajes de commit. Esta convención establece reglas para crear un historial de commits explícito, lo que facilita la creación de herramientas automatizadas.
 
-Esses commits auxiliarão você e sua equipe a entenderem de forma facilitada quais alterações foram realizadas no trecho de código que foi commitado.
+Estos commits ayudarán a ti y a tu equipo a comprender de manera más fácil qué cambios se realizaron en el código que se ha commitado.
 
-Essa identificação ocorre por meio de uma palavra e emoji que identifica se aquele commit realizado se trata de uma alteração de código, atualização de pacotes, documentação, alteração de visual, teste...
+Esta identificación se realiza mediante una palabra y un emoji que indica si ese commit se trata de un cambio de código, actualización de paquetes, documentación, cambio visual, pruebas, etc.
 
 ## 📚 Ebook
 
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$25,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
+> Este repositorio es un proyecto gratuito para la comunidad de desarrolladores. Sin embargo, puedo ayudarte comprando el ebook "eFront" si estás interesado en aprender o mejorar tus habilidades de desarrollo frontend. El ebook es completo y cubre tecnologías muy demandadas en el mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js, y mucho más. Tiene un valor de R$25,00 y tu compra me ayuda a producir y proporcionar más contenido gratuito para la comunidad. Adquiérelo ahora y comienza tu viaje en el desarrollo frontend..
 
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
+- eFront - Estudando frontend do zero. [Haz clic aquí para comprar](https://iuricode.com/efront)
 
-## 🦄 Tipo e Descrição
+## 🦄 Tipo y Descripción.
 
-O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
+El commit semántico tiene los siguientes elementos estructurales (tipos) que informan la intención de tu commit al usuario de tu código.
 
-- `feat`- Commits do tipo feat indicam que seu trecho de código está incluindo um **novo recurso** (se relaciona com o MINOR do versionamento semântico).
+- `feat`-Los commits del tipo "feat" indican que se está incluyendo una **nueva característica** en el código (relacionado con la versión MINOR del versionado semántico).
 
-- `fix` - Commits do tipo fix indicam que seu trecho de código commitado está **solucionando um problema** (bug fix), (se relaciona com o PATCH do versionamento semântico).
+- `fix` - Los commits del tipo "fix" indican que el fragmento de código commitado está **solucionando un problema** (corrección de errores) (relacionado con el PATCH del versionamiento semántico).
 
-- `docs` - Commits do tipo docs indicam que houveram **mudanças na documentação**, como por exemplo no Readme do seu repositório. (Não inclui alterações em código).
+- `docs` - Los commits del tipo "docs" indican que ha habido **cambios en la documentación**, como por ejemplo en el archivo README de tu repositorio. Esto no incluye cambios en el código.
 
-- `test` - Commits do tipo test são utilizados quando são realizadas **alterações em testes**, seja criando, alterando ou excluindo testes unitários. (Não inclui alterações em código)
+- `test` - Los commits del tipo "test" se utilizan cuando se realizan **cambios en pruebas**, ya sea creando, modificando o eliminando pruebas unitarias. Esto no incluye cambios en el código.
 
-- `build` - Commits do tipo build são utilizados quando são realizadas modificações em **arquivos de build e dependências**.
+- `build` - Los commits del tipo "build" se utilizan cuando se realizan modificaciones en **archivos de construcción (build) y dependencias**.
 
-- `perf` - Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a **performance**.
+- `perf` - Los commits del tipo "perf" se utilizan para identificar cualquier cambio de código relacionado con **rendimiento**.
 
-- `style` - Commits do tipo style indicam que houveram alterações referentes a **formatações de código**, semicolons, trailing spaces, lint... (Não inclui alterações em código).
+- `style` - Los commits del tipo "style" indican que ha habido cambios relacionados con **formatos de código**, como puntos y comas, espacios al final de las líneas, reglas de lint, etc. Esto no incluye cambios en el código en sí.
 
-- `refactor` - Commits do tipo refactor referem-se a mudanças devido a **refatorações que não alterem sua funcionalidade**, como por exemplo, uma alteração no formato como é processada determinada parte da tela, mas que manteve a mesma funcionalidade, ou melhorias de performance devido a um code review.
+- `refactor` - Los commits del tipo "refactor" se refieren a cambios debido a **refactorizaciones que no alteran la funcionalidad**, como por ejemplo, cambios en el formato en el que se procesa una parte de la interfaz, pero manteniendo la misma funcionalidad, o mejoras de rendimiento realizadas después de una revisión de código.
 
-- `chore` - Commits do tipo chore indicam **atualizações de tarefas** de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)
+- `chore` - Los commits del tipo "chore" indican **actualizaciones de tareas** de construcción, configuraciones administrativas, paquetes, etc. Por ejemplo, agregar un paquete al archivo gitignore. Esto no incluye cambios en el código en sí.
 
-- `ci` - Commits do tipo ci indicam mudanças relacionadas a **integração contínua** (_continuous integration_).
+- `ci` - Los commits del tipo "ci" indican cambios relacionados con **integración continua** (_continuous integration_). Estos cambios pueden estar relacionados con configuraciones, scripts o procesos de integración continua utilizados en el proyecto.
 
 ## ☑️ Recomendações
 
