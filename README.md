@@ -318,7 +318,7 @@ Ejemplo: corregir errores menores en el código.
 
 También esta disponible en otros idiomas
 
-- ![br](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Brazil.png) **Brazilian Portuguese** [iuricode/padroes-de-commits](https://github.com/fesnt/clean-code-javascript)
+- ![br](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Brazil.png) **Portugués brasileño** [iuricode/padroes-de-commits](https://github.com/fesnt/clean-code-javascript)
 
 <div align="center">
   <br/>
