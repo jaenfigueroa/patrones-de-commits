@@ -42,66 +42,66 @@ El commit semántico tiene los siguientes elementos estructurales (tipos) que in
 
 - `ci` - Los commits del tipo "ci" indican cambios relacionados con **integración continua** (_continuous integration_). Estos cambios pueden estar relacionados con configuraciones, scripts o procesos de integración continua utilizados en el proyecto.
 
-## ☑️ Recomendações
+## ☑️ Recomendaciones
 
-- Adicione um título consistente com o título do conteúdo;
-- Recomendamos que na primeira linha deve ter no máximo 4 palavras;
-- Para descrever com detalhes, usar a descrição do commit;
-- Usar um emoji no início da mensagem de commit representando sobre o commit;
-- Um link precisa ser adicionado em sua forma mais autêntica, ou seja: sem encurtadores de link e links afiliados;
+- Agregar un título consistente con el título del contenido.
+- Se recomienda que la primera línea tenga un máximo de 4 palabras.
+- Utilizar la descripción del commit para proporcionar detalles.
+- Utilizar un emoji al inicio del mensaje de commit que represente el commit.
+- Agregar un enlace en su forma auténtica, sin acortadores de enlaces ni enlaces afiliados.
 
 ## 🍧 Complementos de Commits
 
-- **Rodapé:** Geralmente uma informação sobre o revisor e numero de card de trello ou jira 
-  Exemplo: Reviewed-by: Elisandro Mello Refs #133
-- **Corpo** : descrições mais precisas do que está contido no commit, apresentando impactos e os motivos pelos quais foram empregadas as alterações no código, como também instruções essenciais para intervenções futuras. 
-  Exemplo: see the issue for details on typos fixed.
-- **Descrições**:  uma descrição sucinta da mudança
-  Exemplo: correct minor typos in code
+- **Pie de página**: Generalmente contiene información sobre el revisor y el número de la tarjeta de Trello o Jira.
+Ejemplo: Revisado por: Elisandro Mello Refs #133
+- **Cuerpo**: Descripciones más precisas de lo que contiene el commit, presentando los impactos y las razones por las que se realizaron los cambios en el código, así como instrucciones importantes para futuras intervenciones.
+Ejemplo: ver el problema para obtener detalles sobre los errores corregidos.
+- **Descripciones**: Una descripción breve del cambio.
+Ejemplo: corregir errores menores en el código.
 
-## 💈 Padrões de emojis
+## 💈 Patrones de emojis
 
 <table>
   <thead>
     <tr>
       <th>Tipo de commit</th>
       <th>Emojis</th>
-      <th>Palavra-chave</th>
+      <th>Palabra Clave</th>
     </tr>
   </thead>
  <tbody>
     <tr>
-      <td>Acessibilidade</td>
+      <td>Accesibilidad</td>
       <td>♿ <code>:wheelchair:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Adicionando um teste</td>
+      <td>Añadir un test</td>
       <td>✅ <code>:white_check_mark:</code></td>
       <td><code>test</code></td>
     </tr>
     <tr>
-      <td>Adicionando uma dependência</td>
+      <td>Añadir una dependencia</td>
       <td>➕ <code>:heavy_plus_sign:</code></td>
       <td><code>build</code></td>
     </tr>
     <tr>
-      <td>Alterações de revisão de código</td>
+      <td>Cambios en la revisión del código</td>
       <td>👌 <code>:ok_hand:</code></td>
       <td><code>style</code></td>
     </tr>
     <tr>
-      <td>Animações e transições</td>
+      <td>Animaciones y transiciones</td>
       <td>💫 <code>:dizzy:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Bugfix</td>
+      <td>Corrección de errores</td>
       <td>🐛 <code>:bug:</code></td>
       <td><code>fix</code></td>
     </tr>
     <tr>
-      <td>Comentários</td>
+      <td>Comentarios</td>
       <td>💡 <code>:bulb:</code></td>
       <td><code>docs</code></td>
     </tr>
@@ -111,27 +111,27 @@ El commit semántico tiene los siguientes elementos estructurales (tipos) que in
       <td><code>init</code></td>
     </tr>
     <tr>
-      <td>Configuração</td>
+      <td>Configuración</td>
       <td>🔧 <code>:wrench:</code></td>
       <td><code>chore</code></td>
     </tr>
     <tr>
-      <td>Deploy</td>
+      <td>Despliegue</td>
       <td>🚀 <code>:rocket:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Documentação</td>
+      <td>Documentación</td>
       <td>📚 <code>:books:</code></td>
       <td><code>docs</code></td>
     </tr>
     <tr>
-      <td>Em progresso</td>
+      <td>En proceso</td>
       <td>🚧 <code>:construction:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Estilização de interface</td>
+      <td>Diseño de la interfaz</td>
       <td>💄 <code>:lipstick:</code></td>
       <td><code>feat</code></td>
     </tr>
@@ -141,57 +141,57 @@ El commit semántico tiene los siguientes elementos estructurales (tipos) que in
       <td><code>ci</code></td>
     </tr>
     <tr>
-      <td>Lista de ideias (tasks)</td>
+      <td>Lista de ideas (tareas)</td>
       <td>🔜 <code> :soon: </code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Mover/Renomear</td>
+      <td>Mover/Renombrar</td>
       <td>🚚 <code>:truck:</code></td>
       <td><code>chore</code></td>
     </tr>
     <tr>
-      <td>Novo recurso</td>
+      <td>Nueva función</td>
       <td>✨ <code>:sparkles:</code></td>
       <td><code>feat</code></td>
     </tr>
     <tr>
-      <td>Package.json em JS</td>
+      <td>Package.json en JS</td>
       <td>📦 <code>:package:</code></td>
       <td><code>build</code></td>
     </tr>
     <tr>
-      <td>Performance</td>
+      <td>Rendimiento</td>
       <td>⚡ <code>:zap:</code></td>
       <td><code>perf</code></td>
     </tr>
     <tr>
-        <td>Refatoração</td>
+        <td>Refactorización</td>
         <td>♻️ <code>:recycle:</code></td>
         <td><code>refactor</code></td>
     </tr>
     <tr>
-      <td>Removendo um arquivo</td>
+      <td>Eliminar un archivo</td>
       <td>🔥 <code>:fire:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Removendo uma dependência</td>
+      <td>Eliminar una dependencia</td>
       <td>➖ <code>:heavy_minus_sign:</code></td>
       <td><code>build</code></td>
     </tr>
     <tr>
-      <td>Responsividade</td>
+      <td>Responsividad</td>
       <td>📱 <code>:iphone:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Revertendo mudanças</td>
+      <td>Revirtiendo cambios</td>
       <td>💥 <code>:boom:</code></td>
       <td><code>fix</code></td>
     </tr>
     <tr>
-      <td>Segurança</td>
+      <td>Seguridad</td>
       <td>🔒️ <code>:lock:</code></td>
       <td></td>
     </tr>
@@ -201,17 +201,17 @@ El commit semántico tiene los siguientes elementos estructurales (tipos) que in
       <td></td>
     </tr>
     <tr>
-      <td>Tag de versão</td>
+      <td>Etiqueta de versión</td>
       <td>🔖 <code>:bookmark:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Teste de aprovação</td>
+      <td>Prueba de aprobación</td>
       <td>✔️ <code>:heavy_check_mark:</code></td>
       <td><code>test</code></td>
     </tr>
     <tr>
-      <td>Testes</td>
+      <td>Pruebas</td>
       <td>🧪 <code>:test_tube:</code></td>
       <td><code>test</code></td>
     </tr>
@@ -221,12 +221,12 @@ El commit semántico tiene los siguientes elementos estructurales (tipos) que in
       <td></td>
     </tr>
     <tr>
-      <td>Tipagem</td>
+      <td>Tipado</td>
       <td>🏷️ <code>:label:</code></td>
       <td></td>
     </tr>
     <tr>
-      <td>Tratamento de erros</td>
+      <td>Gestión de errores</td>
       <td>🥅 <code>:goal_net:</code></td>
       <td></td>
     </tr>
