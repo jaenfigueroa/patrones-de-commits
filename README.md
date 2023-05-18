@@ -233,13 +233,13 @@ Ejemplo: corregir errores menores en el código.
   </tbody>
 </table>
 
-## 💻 Exemplos
+## 💻 Ejemplos
 
 <table>
   <thead>
     <tr>
       <th>Comando git</th>
-      <th>Resultado no GitHub</th>
+      <th>Resultado en GitHub</th>
     </tr>
   </thead>
  <tbody>
@@ -251,63 +251,63 @@ Ejemplo: corregir errores menores en el código.
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":books: docs: Atualizaçao do README"</code>
+        <code>git commit -m ":books: docs: Actualización de README"</code>
       </td>
-      <td>📚 docs: Atualizaçao do README</td>
+      <td>📚 docs: Actualización de README</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":bug: fix: Loop infinito na linha 50"</code>
+        <code>git commit -m ":bug: fix: Bucle infinito en la línea 50"</code>
       </td>
-      <td>🐛 fix: Loop infinito na linha 50</td>
+      <td>🐛 fix: Bucle infinito en la línea 50</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":sparkles: feat: Pagina de login"</code>
+        <code>git commit -m ":sparkles: feat: Página de inicio de sesión"</code>
       </td>
-      <td>✨ feat: Pagina de login</td>
+      <td>✨ feat: Página de inicio de sesión</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":bricks: ci: Modificaçao no Dockerfile"</code>
+        <code>git commit -m ":bricks: ci: Modificación en el Dockerfile"</code>
       </td>
-      <td>🧱 ci: Modificaçao no Dockerfile</td>
+      <td>🧱 ci: Modificación en el Dockerfile</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":recycle: refactor: Passando para arrow functions"</code>
+        <code>git commit -m ":recycle: refactor: Cambio a funciones de flecha"</code>
       </td>
-      <td>♻️ refactor: Passando para arrow functions</td>
+      <td>♻️ refactor: Cambio a funciones de flecha</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":zap: perf: Melhoria no tempo de resposta"</code>
+        <code>git commit -m ":zap: perf: Mejora del tiempo de respuesta"</code>
       </td>
-      <td>⚡ perf: Melhoria no tempo de resposta</td>
+      <td>⚡ perf: Mejora del tiempo de respuesta</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":boom: fix: Revertendo mudanças ineficientes"</code>
+        <code>git commit -m ":boom: fix: Revirtiendo cambios ineficientes"</code>
       </td>
-      <td>💥 fix: Revertendo mudanças ineficientes</td>
+      <td>💥 fix: Revirtiendo cambios ineficientes</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":lipstick: feat: Estilizaçao CSS do formulario"</code>
+        <code>git commit -m ":lipstick: feat: Estilización CSS del formulario"</code>
       </td>
-      <td>💄 feat: Estilizaçao CSS do formulario</td>
+      <td>💄 feat: Estilización CSS del formulario</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":test_tube: test: Criando novo teste"</code>
+        <code>git commit -m ":test_tube: test: Creando nueva prueba"</code>
       </td>
-      <td>🧪 test: Criando novo teste</td>
+      <td>🧪 test: Creando nueva prueba</td>
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":bulb: docs: Comentários sobre a função LoremIpsum( )"</code>
+        <code>git commit -m ":bulb: docs: Comentarios sobre la función LoremIpsum( )"</code>
       </td>
-      <td>💡 docs: Comentários sobre a função LoremIpsum( )</td>
+      <td>💡 docs: Comentarios sobre la función LoremIpsum( )</td>
     </tr>
   </tbody>
 </table>
@@ -320,7 +320,7 @@ Ejemplo: corregir errores menores en el código.
     </div>
     <br/>
     <p> 
-      <a href="https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md">LICENÇA</a>
+      <a href="https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md">LICENCIA</a>
     </p>
     💖
 </div>
