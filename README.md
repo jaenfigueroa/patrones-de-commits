@@ -16,9 +16,9 @@ Esta identificación se realiza mediante una palabra y un emoji que indica si es
 
 ## 📚 Ebook
 
-> Este repositorio es un proyecto gratuito para la comunidad de desarrolladores. Sin embargo, puedo ayudarte comprando el ebook "eFront" si estás interesado en aprender o mejorar tus habilidades de desarrollo frontend. El ebook es completo y cubre tecnologías muy demandadas en el mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js, y mucho más. Tiene un valor de R$25,00 y tu compra me ayuda a producir y proporcionar más contenido gratuito para la comunidad. Adquiérelo ahora y comienza tu viaje en el desarrollo frontend..
+> Este repositorio es un proyecto gratuito para la comunidad de desarrolladores. Sin embargo, puedes ayudarme comprando el ebook "eFront" si estás interesado en aprender o mejorar tus habilidades de desarrollo frontend. El ebook es completo y cubre tecnologías muy demandadas en el mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js, y mucho más. Tiene un valor de R$25,00 y tu compra me ayuda a producir y proporcionar más contenido gratuito para la comunidad. Adquiérelo ahora y comienza tu viaje en el desarrollo frontend..
 
-- eFront - Estudando frontend do zero. [Haz clic aquí para comprar](https://iuricode.com/efront)
+- eFront - Estudando frontend desde cero. [Haz clic aquí para comprar](https://iuricode.com/efront)
 
 ## 🦄 Tipo y Descripción.
 
@@ -26,7 +26,7 @@ El commit semántico tiene los siguientes elementos estructurales (tipos) que in
 
 - `feat`-Los commits del tipo "feat" indican que se está incluyendo una **nueva característica** en el código (relacionado con la versión MINOR del versionado semántico).
 
-- `fix` - Los commits del tipo "fix" indican que el fragmento de código commitado está **solucionando un problema** (corrección de errores) (relacionado con el PATCH del versionamiento semántico).
+- `fix` - Los commits del tipo "fix" indican que el fragmento de código commitado está **solucionando un problema** (corrección de errores) (relacionado con el parche (PATCH) del versionamiento semántico).
 
 - `docs` - Los commits del tipo "docs" indican que ha habido **cambios en la documentación**, como por ejemplo en el archivo README de tu repositorio. Esto no incluye cambios en el código.
 
